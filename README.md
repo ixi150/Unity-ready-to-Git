@@ -2,7 +2,8 @@
 This repo is ready to go as is. Empty project correctly configured.
 
 
-Preview how to set-up UNITY project on GitHub on your own. (Source: stackoverflow)
+# How to set-up UNITY project on GitHub on your own. 
+(Source: stackoverflow)
 
 The steps:
 
@@ -19,13 +20,9 @@ Make your first commit. Open terminal and follow the next 6 steps.
 cd to/your/unity/project/folder
 
 git init
-
 git add *
-
 git commit -m "First commit"
-
 git remote add origin git@github.com:username/project.git
-
 git push -u origin master
 
 Open your Unity project while holding down the Option or the left Alt key. This will force Unity to recreate the Library directory (this step might not be necessary since I've seen Unity recreating the Library directory even if you don't hold down any key).
