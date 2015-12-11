@@ -1,5 +1,8 @@
-# unity-git-test2
-Preview how to set-up UNITY project on GitHub
+# Unity-ready-to-Git
+This repo is ready to go as is. Empty project correctly configured.
+
+
+Preview how to set-up UNITY project on GitHub on your own. (Source: stackoverflow)
 
 The steps:
 
